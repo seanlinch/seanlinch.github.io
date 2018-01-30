@@ -1,0 +1,45 @@
+h1{
+  color: #aad5ef;
+}
+h1{
+  font-size:44px;
+}
+h2{
+  color: white;
+}
+h2{
+  text-shadow: 3px 3px 3px orange;
+}
+p {
+  color: #9bc5fc;
+}
+p {
+  font-size: 20px;
+}
+#profile{
+  color: #99ffda;
+}
+#profile{
+  font-weight: bold;
+}
+p.players {
+  color: red;
+}
+body {
+  font-family:impact;
+}
+body {
+  background-color:#191e28;
+}
+body {
+  background-image:url(123.png);
+}
+em {
+  color: white;
+}
+img{
+  padding:10px 10px 10px 10px;
+}
+img{
+  width: 950px;
+}
